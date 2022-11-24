@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo! Sou Leonardo Ferreira, desenvolvedor Front-end.
+## Olá, seja bem-vindo(a)! Sou Leonardo Ferreira, desenvolvedor Front-end.
 <div align="center">
   <a href="https://github.com/ferreira-leonardo">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=ferreira-leonardo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
