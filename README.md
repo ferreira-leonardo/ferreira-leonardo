@@ -1,4 +1,4 @@
-## Olá, seja bem-vindo(a)! Sou Leonardo Ferreira, desenvolvedor Front-end.
+## Hello, welcome! I'm Leonardo Ferreira, Front-end developer.
 
 ## 🌐 Socials:
 
